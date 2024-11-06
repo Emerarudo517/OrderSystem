@@ -1,0 +1,17 @@
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\bin\Debug\net8.0\OrderSystem.Infrastructure.deps.json
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\bin\Debug\net8.0\OrderSystem.Infrastructure.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\bin\Debug\net8.0\OrderSystem.Infrastructure.pdb
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\bin\Debug\net8.0\OrderSystem.Core.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\bin\Debug\net8.0\OrderSystem.Core.pdb
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.csproj.AssemblyReference.cache
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.AssemblyInfoInputs.cache
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.AssemblyInfo.cs
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSys.C15C860F.Up2Date
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\refint\OrderSystem.Infrastructure.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.pdb
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\ref\OrderSystem.Infrastructure.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\bin\Debug\net8.0\OrderSystem.Infrastructure.runtimeconfig.json
+E:\Code\Intern\OrderSystem\OrderSystem.Infrastructure\obj\Debug\net8.0\OrderSystem.Infrastructure.genruntimeconfig.cache

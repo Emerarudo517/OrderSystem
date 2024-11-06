@@ -1,0 +1,11 @@
+E:\Code\Intern\OrderSystem\OrderSystem.Core\bin\Debug\net8.0\OrderSystem.Core.deps.json
+E:\Code\Intern\OrderSystem\OrderSystem.Core\bin\Debug\net8.0\OrderSystem.Core.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Core\bin\Debug\net8.0\OrderSystem.Core.pdb
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\OrderSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\OrderSystem.Core.AssemblyInfoInputs.cache
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\OrderSystem.Core.AssemblyInfo.cs
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\OrderSystem.Core.csproj.CoreCompileInputs.cache
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\OrderSystem.Core.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\refint\OrderSystem.Core.dll
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\OrderSystem.Core.pdb
+E:\Code\Intern\OrderSystem\OrderSystem.Core\obj\Debug\net8.0\ref\OrderSystem.Core.dll
